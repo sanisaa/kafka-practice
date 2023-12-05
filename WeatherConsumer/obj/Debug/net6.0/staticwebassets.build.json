@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gXNoVMiKIP/Yv5mU19zXgmmjfX5RcAfp/AEwuVI3DFE=",
+  "Source": "WeatherConsumer",
+  "BasePath": "_content/WeatherConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
